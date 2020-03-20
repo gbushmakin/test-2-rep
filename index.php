@@ -1,4 +1,10 @@
 <?php
 
-echo 'html';
+function newFunction() {
+
+ return 'hello world';	
+	
+}
+
+echo newFunction();
         
